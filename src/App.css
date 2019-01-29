@@ -2,11 +2,6 @@
   text-align: center;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-}
-
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -22,7 +17,14 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
+/*
+Ex use of keyframe below
+.Image1 {
+  animation: Spin infinite 20s linear;
+  height: 40vmin;
+}*/
+
+@keyframes Spin {
   from {
     transform: rotate(0deg);
   }
