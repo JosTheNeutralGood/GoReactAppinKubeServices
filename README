@@ -1,0 +1,9 @@
+Personal project to get practice using Kubernetes, Go, and React frameworks.
+
+Backend started with help from this article:
+https://medium.com/@leo_hetsch/local-development-with-go-postgresql-and-elasticsearch-in-docker-61bc8a0d5e66
+
+Kubernetes services started with Kompose
+http://kompose.io/
+
+Security suggestions and education welcome.
